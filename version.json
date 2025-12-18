@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4.0",
-    "url": "https://github.com/updateappatlas-Coope/atlas-update/releases/download/v1.0.4.0/Atlas_Desktop.exe",
-    "changelog": "\"Corrección de actualizaciones, multiselección de tiendas y mejoras visuales"
+    "version": "1.0.5.0",
+    "url": "https://github.com/updateappatlas-Coope/atlas-update/releases/download/v1.0.5.0/Atlas_Desktop.exe",
+    "changelog": "Corrección definitiva del sistema de actualización (DLL Fix Final) y mejoras visuales"
 }
