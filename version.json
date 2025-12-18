@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6.2",
-    "url": "https://github.com/updateappatlas-Coope/atlas-update/releases/download/v1.0.6.2/Atlas_Desktop.exe",
-    "changelog": "se trata de anular el error al actualizar v3"
+    "version": "1.1.0",
+    "url": "https://github.com/updateappatlas-Coope/atlas-update/releases/download/v1.1.0/Atlas_Desktop.exe",
+    "changelog": "posible solucion al problema dll"
 }
