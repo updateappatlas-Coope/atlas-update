@@ -1,5 +1,5 @@
 {
-    "version": "1.1.26",
-    "url": "https://github.com/updateappatlas-Coope/atlas-update/releases/download/v1.1.26/Atlas_Desktop.exe",
-    "changelog": "mejoras en la ventana de actualizacion"
+    "version": "1.1.27",
+    "url": "https://github.com/updateappatlas-Coope/atlas-update/releases/download/v1.1.27/Atlas_Desktop.exe",
+    "changelog": "Nuevo buscador de ayuda con preguntas frecuentes. Modo oscuro mejorado con textos de alto contraste. Ventana de actualización más profesional."
 }
